@@ -1,0 +1,101 @@
+transaction_date,region,product_category,quantity_sold,sales_amount,customer_name,transaction_id,payment_method
+08-10-23,East,Home Decor,,248.92,Kimberly Harrell,31e95718-0802-4674-9762-14cf69283244,Cash
+23-03-22,South,Clothing,7.1,693.23,Andrea Sanchez,8d2c815a-820b-458e-868a-94c9f195b91c,Cash
+02-06-23,East,Home Decor,7.5,387.35,Tina Stewart,800fadd9-7adc-453e-a17f-269186dda67c,Credit Card
+23-08-22,South,Electronics,,301.83,Bryan Hodges,71f4e452-a8c9-4b8c-acb2-efd9e72d8aed,UPI
+19-10-22,South,Books,,444.63,Lauren Graham,4eb9527f-2cc5-408f-a6b3-dad10df7f682,Cash
+21-09-22,North,Furniture,1.3,398.14,Sarah Banks,0994a5ca-9301-4141-8807-db8bd9bba05a,Credit Card
+12-04-25,South,Books,,493.15,Michael Doyle,1372c694-494b-4f4a-b477-f044b8bf7747,Credit Card
+05-02-21,South,Books,3.9,345.64,Melissa Nelson,b46ec48e-e5d2-4095-9bf7-c5ed81c6c951,Cash
+08-09-20,East,Electronics,8.0,691.57,Patrick Harvey,5cf69def-da17-48fd-b4ae-d9848423b53c,Online Banking
+29-04-24,West,Books,,468.48,Mark Rocha MD,d661f25d-569b-48a2-b918-e731162e1947,Credit Card
+31-10-20,South,Books,,519.66,Mark Moore,c05f7185-6c55-4740-9fb8-a89bad879edc,Credit Card
+24-10-22,South,Home Decor,2.3,183.89,Susan Brown,ba33dda9-a6c4-4853-8c3b-3532392fb4e1,Online Banking
+29-05-24,North,Clothing,7.1,120.98,Christopher Torres,56997925-33fa-4ddd-ab76-c393bc5953a6,Online Banking
+18-11-24,North,Books,7.7,591.87,Joshua Martin,b45eb1fc-a7fd-4911-b2ee-aaaf4230424a,Online Banking
+10-09-20,West,Electronics,8.7,830.85,John Martin,24329f6f-021f-40b1-9238-cff165372bd1,Online Banking
+24-08-23,West,Furniture,2.3,825.05,Lisa Petty,1fc1ed04-9314-4b5b-b491-b39ede5f2a17,Credit Card
+03-01-22,North,Furniture,,236.63,Tiffany Howard,1d306273-6b79-49eb-baa5-5d647502c657,UPI
+06-06-23,North,Clothing,4.4,744.49,Alicia Mcmahon,5fea9a54-4ec3-4447-9466-582e688e6698,UPI
+02-08-23,West,Clothing,,243.3,Melissa Clayton,af49ba41-8886-4dd5-8ae8-94ac280ec344,Online Banking
+31-10-23,South,Furniture,,440.22,Jordan Davis,bbedc4aa-f53b-49a0-a002-ce7e343cf9bc,UPI
+11-12-23,West,Books,,249.35,Monique Edwards,82f09759-8211-4db5-a970-e934deab6bc0,Cash
+06-02-21,South,Clothing,,726.53,Thomas Davis,651fed3b-5de1-4ff7-b37c-ffb59a6ba837,Online Banking
+15-09-23,South,Home Decor,,339.29,Kevin Petty,5ce8c0d8-392a-4155-a32d-fef0c37149af,Cash
+19-12-23,West,Books,,517.42,John Gonzalez,6cf38ef5-ac92-45c0-82d5-2152f181afc9,Credit Card
+24-06-22,North,Electronics,,873.19,James Kennedy,73c459db-35e6-4a3f-840e-4a1f3729b45a,Online Banking
+30-07-24,West,Books,,188.66,Phillip Holden,7f059984-bdc2-45ca-8b4a-6451be15a22c,Credit Card
+23-09-22,South,Furniture,,868.11,Gregory Lloyd,0122cab0-e782-4615-8e2e-55b54bf2bd81,Credit Card
+22-09-20,North,Clothing,,708.05,Bob Barrera,a3015281-95e3-45f9-8e54-678a1e747ad8,Cash
+16-02-21,East,Furniture,8.4,465.54,David Young,84e40290-22d5-4d3e-9da2-a8e7b1caac13,UPI
+24-11-22,South,Home Decor,,342.57,Jeffrey Tapia,46268848-d48d-4543-b5e2-293efc207ab1,Cash
+05-07-22,North,Books,7.7,672.09,Jennifer Oconnor,03389254-97f1-4d9a-b79a-8a23955940d0,Online Banking
+13-05-24,North,Clothing,5.2,241.0,Deborah Combs,77870d48-409f-4537-9369-1a0c69d1b2a0,Cash
+15-05-22,East,Furniture,,452.38,Jonathan Flowers,11f57172-e253-461a-8fb3-929cfb101d36,UPI
+28-07-20,East,Clothing,4.8,650.47,Frank Davis,e5a24c89-5838-4983-a739-742622900d1b,UPI
+17-05-21,North,Clothing,,415.33,Stephen Richardson DDS,15154eb3-fd60-4c72-a071-6f7e39088e87,Credit Card
+25-05-21,South,Books,4.8,721.76,Joshua Keller,8f7bf850-5170-4a7d-a621-82de2881767b,Credit Card
+06-07-24,North,Clothing,5.3,478.93,Ashley Walters,503ad65f-5c5a-4f25-bd30-9a1b32efebff,Credit Card
+15-09-24,North,Electronics,,325.25,Julie Benson,90d39180-3bf9-42d4-a70d-bfa02994117b,Online Banking
+16-12-22,South,Electronics,,932.48,Krista Collins,db0a2fd1-88bd-44d2-b252-14030c949723,UPI
+28-02-23,North,Books,,109.49,Anthony Williams,45e4feeb-554f-42ee-b5f7-949a02550f5f,UPI
+03-06-21,West,Clothing,,728.18,Kimberly Hill,e87236a9-0934-40aa-b97e-657c243565d2,UPI
+20-07-20,South,Clothing,3.2,528.95,Deborah Robinson,f16e7c5c-f3fc-40ba-8b29-cacfadd37957,Online Banking
+09-12-24,West,Furniture,,601.65,Helen Perry,3444edfb-00d8-4c5b-87a2-32a460dfefdb,Online Banking
+14-03-22,West,Home Decor,5.5,997.49,Blake Johnson,eb42e829-cc2d-4961-86d5-33f1651e47b3,UPI
+26-10-21,North,Furniture,,124.8,Jose Cox,7d9ae181-1d7e-407b-88ac-30bac947581e,Cash
+08-12-24,East,Home Decor,,983.96,Amy Garrett,90906039-95d6-4bde-8509-c0d089e782bc,Credit Card
+22-01-23,West,Books,1.5,731.6,Harold Bowman,27649b36-180f-443a-83b1-744db8b04385,Credit Card
+19-05-24,North,Clothing,6.8,742.99,Karen Gallagher,1d4402cd-3a63-4b3a-bca4-daa0685aac18,Cash
+14-04-23,South,Clothing,4.6,358.26,David Rivera,a211fc8d-f108-4c06-a73f-53c13049322a,UPI
+11-12-22,East,Clothing,6.9,993.09,Janice Fitzgerald,fe50385b-d91a-4696-ad62-22be87eac10b,Credit Card
+07-08-23,East,Books,5.6,350.07,Elizabeth Harper,70e8da8a-7d57-4d1f-ae76-eeb25cea1353,Credit Card
+28-05-23,North,Electronics,2.2,623.91,Alyssa Burnett,ef650f58-fbe3-4a5a-93ca-9039fa8b84d2,Online Banking
+11-03-25,East,Electronics,8.0,925.81,Brandon Morris,191f458f-8796-4cb1-a0aa-6e33d6770277,UPI
+09-04-22,East,Home Decor,,848.95,Shannon Schultz,aa9d8fc5-a956-458f-a4c5-c22a629a5c43,Cash
+18-04-24,North,Electronics,7.0,626.71,Lauren Moore,701878e9-2074-40e8-b933-7e7f8c77844a,Cash
+16-04-22,West,Books,4.9,645.0,Samantha Phillips,8cff790e-dd9f-46e9-9595-2c1b8a24da11,Cash
+23-07-24,East,Furniture,8.0,862.55,Ronald Serrano DDS,998efe7f-7b98-4f1f-a717-2b11118ae841,Online Banking
+10-06-24,West,Home Decor,,846.9,Courtney Meyer,a8d0114b-437e-469f-a3ab-afd24c6ee1c5,Credit Card
+23-04-25,North,Books,,312.55,Anna Olson,6744fa3f-7db3-4d4f-88cd-56a016359cf4,UPI
+06-10-20,South,Electronics,,690.24,Jose Hudson,8dd61840-e35e-40a8-8ffc-7654109e7983,Online Banking
+17-11-22,East,Books,,209.57,Gregory Brown,7874c0fb-bbcf-4aa5-ae3c-9bd81c516908,Cash
+04-07-22,North,Clothing,,336.99,Tiffany Chapman,6af8f4df-e0a8-4621-a4e2-672286939e82,Credit Card
+09-10-20,North,Home Decor,,667.64,Edward Baldwin,55741020-6c45-4b52-854a-12cbf2a92db3,Cash
+30-10-24,West,Electronics,,144.78,Kristina Sanders,46fd2baa-b27d-4957-8925-ddf35ff7e706,Online Banking
+21-01-24,South,Furniture,,805.95,Joseph Garcia,5246c9c3-ad2b-48ed-bbd7-2ddf0546d7a2,Online Banking
+10-10-24,West,Furniture,,771.63,Kenneth Gray,227cb88b-700b-414f-8334-b6f4f17741b1,Online Banking
+17-07-21,North,Clothing,4.9,611.1,Sherry Wall,7bf9589b-5505-40c8-9a53-050eccc06edc,Online Banking
+15-05-24,West,Home Decor,6.1,920.48,Bobby Larsen,ba3a4522-8999-4517-a1ff-9a6df2cbf044,Credit Card
+24-05-22,East,Electronics,,502.94,Tonya Blevins,ab7dcbb1-57a0-44d8-a0cd-d8999b8c6398,Online Banking
+12-06-22,East,Books,,679.54,Ryan Blanchard,9781134d-a971-483c-a007-afaec1865437,Cash
+04-03-23,East,Furniture,,403.75,Chelsey Garcia,16c61618-331d-401d-8af2-6f0f51a61f39,Credit Card
+22-12-23,North,Furniture,7.7,751.96,Alexandra Sutton,7f274981-04c0-4d64-a012-bf3b0a9d671b,Credit Card
+14-08-23,East,Furniture,,747.75,Jennifer Kane,ab01b487-6e8c-449e-b3ac-f8a6caa81421,Online Banking
+14-07-25,East,Electronics,6.4,182.49,Jason Johnston,9db19705-5389-4ad7-a97f-b16ce47c7a84,Cash
+18-03-25,South,Books,3.2,139.59,Gary Ramirez,88941a78-ff98-4f14-8784-ca1d40de8188,UPI
+19-01-22,West,Books,,323.02,Claire Mercer,441f3de3-f8fb-4d13-8f09-fd9995bdd96f,UPI
+14-06-21,West,Furniture,2.3,372.72,Carl Wong,b9b03e56-f329-448d-bba7-ff124e74986e,Online Banking
+08-07-22,North,Furniture,,380.83,Elizabeth Jackson,33434844-3424-439b-a638-9d4ed73b1a27,UPI
+04-02-24,West,Electronics,2.7,353.04,Roger Hansen,df5d0b94-754c-4aa2-ab13-415d44041b55,Cash
+31-01-21,North,Clothing,,474.22,Heidi Stewart,99b4b793-eef4-4a55-9219-2793217b97ca,Cash
+03-06-24,East,Books,4.0,563.29,Sarah Mayo,49085cf8-006c-4a71-986f-4c3b9ea72086,Online Banking
+23-07-24,South,Electronics,7.1,312.2,Pamela Evans,039ab2ad-68d2-4250-9cc6-32ef20f33a19,Cash
+14-02-21,North,Home Decor,,332.2,Anthony Peters,93607219-cac8-472c-b104-354225239541,Online Banking
+12-08-24,East,Furniture,3.7,885.76,Megan Cabrera,68d29c3e-45f7-4296-a680-2e7760d1dad5,Cash
+14-04-23,South,Books,4.3,594.08,Kristen Cortez,9833d7d8-bd42-4b1a-b226-eafd33c86134,Credit Card
+15-12-20,North,Home Decor,8.9,120.45,Kimberly Nichols,dc1b322d-3698-4b34-a601-99e1fcffd880,Cash
+26-08-21,North,Home Decor,5.4,654.21,Sandra Mills,9e2f8e96-ded7-4eb9-bde6-fda36da6f9c3,Online Banking
+22-02-24,West,Clothing,5.6,586.52,Luis Barrera,ca66497c-7a20-44e6-b3a0-d6d5422f23ee,Credit Card
+23-04-23,South,Books,4.5,268.62,Donna Brooks,44184a13-0a60-4542-bae6-c289aa928d43,Credit Card
+23-05-23,West,Home Decor,4.3,581.92,Teresa Bradley,d1fe6a98-c43c-4395-811a-0c37d96fb3f6,Credit Card
+25-11-24,South,Electronics,4.3,951.75,Janet Williams,e700ffd4-6c53-47b1-8c36-b2bbdd28bd75,Online Banking
+14-11-21,South,Furniture,2.9,615.56,Samantha Velasquez,9a28c2fe-ca72-49bc-b17a-82e3bf24fb4a,Cash
+23-04-22,East,Electronics,1.2,236.12,Samantha Savage,c7b4d30f-a5e8-4f37-8341-4fb1fb1b2f9d,Cash
+12-10-21,North,Home Decor,9.6,855.27,Nathan Rodriguez,722327ed-c035-47bb-be99-005b2ec77e8e,Credit Card
+07-11-23,West,Clothing,9.5,482.6,Shaun Morris,be72da62-cd19-4b43-99f9-56aee9ad72af,UPI
+17-02-25,South,Books,9.1,166.44,Christine Harris,f2684ed1-b047-4101-aa9e-c5ba24231a47,Online Banking
+30-10-24,North,Electronics,2.7,593.38,Robert Rice,f5bf39c6-e206-4628-b7e8-7bc80e9be58c,Credit Card
+04-01-22,East,Home Decor,,974.94,Scott Maynard,79bef9aa-78f7-40cf-8e61-eb8d920b0f54,UPI
+16-04-23,East,Electronics,5.8,424.1,Connor Cook,6bf64b65-15da-412c-a6f6-fc2dea1e6fea,Credit Card
+24-05-21,East,Furniture,1.7,788.08,Jeffrey Mckinney,9aaf1bc5-8d16-4ee7-ad9d-bf8bf92dc976,Credit Card
